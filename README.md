@@ -77,7 +77,7 @@ The trained Random Forest model was used to predict the probability of default f
 ## Results
 
 - Logistic Regression: AUC = 0.73
-- Random Forest: AUC = 0.76
+- Random Forest: AUC = 0.75
 
 The Random Forest model outperformed Logistic Regression in terms of AUC, indicating better performance in distinguishing between defaulters and non-defaulters.
 
